@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 tekst z ogonkami: ąśćół
 tekst z ogonkami: ąśćół
 tekst z ogonkami: ąśćół
+=======
+tekst z ogonkami: ąśćół
+tekst z ogonkami: ąśćół
+tekst z ogonkami: ąśćół
+>>>>>>> d4f06d970b4d665710026f2d53dde28fad90b685
